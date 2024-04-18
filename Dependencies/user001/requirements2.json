@@ -1,0 +1,7 @@
+{
+    "requirements":{
+        "Flask":"3.0.3",
+        "tensorflow":"2.16.1",
+        "opencv-python":"4.8.1.78"
+    }
+}
